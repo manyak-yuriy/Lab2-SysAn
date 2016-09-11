@@ -1,0 +1,23 @@
+﻿  globals.cpp
+  MyForm.cpp
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\tPoly.h(48): warning C4521: tPoly: заданы несколько конструкторов копии
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\MyForm.h(1558): warning C4101: y_ret: неиспользованная локальная переменная
+  Main.cpp
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\tPoly.h(48): warning C4521: tPoly: заданы несколько конструкторов копии
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\MyForm.h(1558): warning C4101: y_ret: неиспользованная локальная переменная
+Main.cpp(573): warning C4244: инициализация: преобразование "std::chrono::system_clock::rep" в "unsigned int", возможна потеря данных
+Main.cpp(582): warning C4244: инициализация: преобразование "std::chrono::system_clock::rep" в "unsigned int", возможна потеря данных
+Main.cpp(629): warning C4101: lambda: неиспользованная локальная переменная
+  tMatrix.cpp
+tMatrix.cpp(168): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+tMatrix.cpp(449): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+  tPoly.cpp
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\tPoly.h(48): warning C4521: tPoly: заданы несколько конструкторов копии
+  tVector.cpp
+tVector.cpp(107): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+tVector.cpp(137): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+tVector.cpp(223): warning C4244: =: преобразование "const double" в "int", возможна потеря данных
+  Создание кода...
+d:\archive\7 semester\systems analysis\lab2\our_lab2\ourlab - ver8\ourlab\main.cpp(204): warning C4715: Polynom: значение возвращается не при всех путях выполнения
+.NETFramework,Version=v4.5.AssemblyAttributes.obj : warning LNK4099: "vc120.pdb" PDB эх эрщфхэ ё ".NETFramework,Version=v4.5.AssemblyAttributes.obj" шыш эр "D:\Archive\7 semester\Systems Analysis\Lab2\our_lab2\OurLab - ver8\Debug\vc120.pdb"; ъюьяюэютър юс·хъЄр т√яюыэ хЄё  ъръ яЁш юЄёєЄёЄтшш юЄырфюўэ√ї фрээ√ї
+  OurLab.vcxproj -> D:\Archive\7 semester\Systems Analysis\Lab2\our_lab2\OurLab - ver8\Debug\OurLab.exe
